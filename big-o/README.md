@@ -1,4 +1,4 @@
-# Big O Notation
+## Big O Notation
 - A way to generalize and compare code in its performance
 - Important to have precise vocab to talk about how code performs
 - Useful for discussing trade-offs between approaches
